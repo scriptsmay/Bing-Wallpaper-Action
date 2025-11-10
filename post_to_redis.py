@@ -7,10 +7,12 @@ import os
 
 env_dist = os.environ
 PASSWORD = env_dist.get('PASSWORD')
+REDIS_HOST = env_dist.get('REDIS_HOST')
+REDIS_PORT = env_dist.get('REDIS_PORT')
 
 r = redis.Redis(
-    host='apn1-destined-giraffe-32369.upstash.io',
-    port=32369,
+    host=REDIS_HOST,
+    port=REDIS_PORT,
     password=PASSWORD, ssl=True)
 
 
