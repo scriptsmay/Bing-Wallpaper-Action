@@ -1,4 +1,4 @@
-name: GetDataBase Execute Every Day
+name: Redis Update Everyday
 
 on:
   schedule:
