@@ -44,7 +44,7 @@ jobs:
           REDIS_HOST: ${{ secrets.REDIS_HOST }}
           REDIS_PORT: ${{ secrets.REDIS_PORT }}
         run: |
-          locales=("zh-CN" "en-US" "ja-JP" "de-DE" "en-CA" "en-GB" "en-IN" "fr-FR" "it-IT")
+          locales=("zh-CN" "en-US")
           for locale in "${locales[@]}"; do
             echo "Running crawler for $locale"
             python ./ALL.py "$locale"
