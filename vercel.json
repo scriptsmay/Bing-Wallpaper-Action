@@ -3,6 +3,10 @@
     {
       "source": "/",
       "destination": "/api/"
+    },
+    {
+      "source": "/api/images/(.*)",
+      "destination": "/api/images.py"
     }
   ],
   "github": {
@@ -12,11 +16,5 @@
     "api/images.py": {
       "runtime": "python3.9"
     }
-  },
-  "routes": [
-    {
-      "src": "/api/images/(.*)",
-      "dest": "/api/images.py"
-    }
-  ]
+  }
 }
