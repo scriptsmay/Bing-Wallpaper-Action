@@ -52,14 +52,15 @@ class Handler(BaseHTTPRequestHandler):
         else:
             return images  # 默认不排序
     
-    def redirect_to_image(self, image_url):
-        """重定向到图片"""
-        self.send_response(302)  # 临时重定向
-        self.send_header('Location', image_url)
-        self.send_header('Cache-Control', 'max-age=3600, s-maxage=7200')  # 缓存1小时
+    def url_redirect(self, url):
+        """执行 URL 重定向"""
+        self.send_response(308)  # 使用 308 永久重定向，便于缓存
         self.send_header('Access-Control-Allow-Origin', '*')
+        self.send_header('Location', url)
+        self.send_header('Cache-Control', 'max-age=0, s-maxage=86400, stale-while-revalidate=3600')  # 缓存24小时
+        self.send_header('Content-type', 'text/plain')
         self.end_headers()
-        self.wfile.write(b'')  # 空响应体
+        self.wfile.write('Redirecting to {} (308)'.format(url).encode('utf-8'))
     
     def send_json_response(self, data, status_code=200):
         """发送JSON响应"""
@@ -86,12 +87,11 @@ class Handler(BaseHTTPRequestHandler):
                 images_list = self.get_sorted_images(sort_by)
                 
                 if response_format == 'image':
-                    # 如果要求返回图片，从列表中随机选一张
+                    # 如果要求返回图片，从列表中随机选一张并重定向
                     if images_list:
                         import random
                         random_image = random.choice(images_list)
-                        full_image_url = f"https://bing.com{random_image}"
-                        self.redirect_to_image(full_image_url)
+                        self.url_redirect(random_image)  # 直接使用存储的完整URL
                     else:
                         self.send_json_response(
                             {"status": "error", "message": "没有找到图片"}, 
@@ -118,17 +118,15 @@ class Handler(BaseHTTPRequestHandler):
                     return
                 
                 latest_image = images_list[-1]  # 排序后的最后一个就是最新的
-                full_image_url = f"https://bing.com{latest_image}"
                 
                 if response_format == 'image':
                     # 直接重定向到最新图片
-                    self.redirect_to_image(full_image_url)
+                    self.url_redirect(latest_image)  # 直接使用存储的完整URL
                 else:
                     # 返回JSON格式
                     self.send_json_response({
                         "status": "success",
                         "image": latest_image,
-                        "full_url": full_image_url,  # 添加完整URL方便使用
                         "total": len(images_list)
                     })
                 
@@ -160,11 +158,10 @@ class Handler(BaseHTTPRequestHandler):
                         return
                     
                     selected_image = images_list[position]
-                    full_image_url = f"https://bing.com{selected_image}"
                     
                     if response_format == 'image':
                         # 直接重定向到指定位置的图片
-                        self.redirect_to_image(full_image_url)
+                        self.url_redirect(selected_image)  # 直接使用存储的完整URL
                     else:
                         # 返回JSON格式
                         self.send_json_response({
@@ -172,8 +169,7 @@ class Handler(BaseHTTPRequestHandler):
                             "position": position,
                             "total": len(images_list),
                             "sort": sort_by,
-                            "image": selected_image,
-                            "full_url": full_image_url  # 添加完整URL方便使用
+                            "image": selected_image
                         })
                     
                 except ValueError:
