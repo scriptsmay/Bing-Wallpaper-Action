@@ -9,7 +9,7 @@ env_dist = os.environ
 PASSWORD = env_dist.get('PASSWORD')
 REDIS_HOST = env_dist.get('REDIS_HOST')
 REDIS_PORT = env_dist.get('REDIS_PORT')
-REDIS_SSL = True if env_dist.get('REDIS_SSL').lower() == 'true' else False
+REDIS_SSL = True if env_dist.get('REDIS_SSL', 'false').lower() == 'true' else False
 
 r = redis.Redis(
     host=REDIS_HOST,
