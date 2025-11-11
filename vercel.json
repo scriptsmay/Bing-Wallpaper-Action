@@ -1,11 +1,22 @@
 {
-    "rewrites": [
-      {
-        "source": "/",
-        "destination": "/api/"
-      }
-    ],
-    "github": {
-      "silent": true
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/api/"
     }
-  }
+  ],
+  "github": {
+    "silent": true
+  },
+  "functions": {
+    "api/images.py": {
+      "runtime": "python3.9"
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/images/(.*)",
+      "dest": "/api/images.py"
+    }
+  ]
+}
