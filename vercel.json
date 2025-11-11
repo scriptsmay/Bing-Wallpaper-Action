@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/api/"
+      "destination": "/api/index.py"
     },
     {
       "source": "/api/images/(.*)",
@@ -11,10 +11,5 @@
   ],
   "github": {
     "silent": true
-  },
-  "functions": {
-    "api/images.py": {
-      "runtime": "python3.9"
-    }
   }
 }
