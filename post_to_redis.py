@@ -9,16 +9,15 @@ env_dist = os.environ
 PASSWORD = env_dist.get('PASSWORD')
 REDIS_HOST = env_dist.get('REDIS_HOST')
 REDIS_PORT = env_dist.get('REDIS_PORT')
+REDIS_SSL = True if env_dist.get('REDIS_SSL').lower() == 'true' else False
 
 r = redis.Redis(
     host=REDIS_HOST,
     port=REDIS_PORT,
-    password=PASSWORD, ssl=True)
-
+    password=PASSWORD, ssl=REDIS_SSL)
 
 def get_now_time():
     return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-
 
 def main(run_type):
     # 读取 data/temo.json
