@@ -9,18 +9,17 @@ env_dist = os.environ
 PASSWORD = env_dist.get('PASSWORD')
 REDIS_HOST = env_dist.get('REDIS_HOST')
 REDIS_PORT = env_dist.get('REDIS_PORT')
-REDIS_SSL = True if env_dist.get('REDIS_SSL', 'false').lower() == 'true' else False
 
 def get_redis_connection():
     """获取Redis连接，包含错误处理"""
     try:
-        print(f"[{get_now_time()}] 尝试连接Redis: {REDIS_HOST}:{REDIS_PORT}, SSL: {REDIS_SSL}")
+        print(f"[{get_now_time()}] 尝试连接Redis: {REDIS_HOST}:{REDIS_PORT}")
         
         r = redis.Redis(
             host=REDIS_HOST,
             port=REDIS_PORT,
             password=PASSWORD, 
-            ssl=REDIS_SSL,
+            ssl=True,
             decode_responses=True,
             socket_connect_timeout=10,  # 添加连接超时
             socket_timeout=10,          # 添加socket超时
