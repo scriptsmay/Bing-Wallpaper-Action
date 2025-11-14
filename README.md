@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-13 02:44:34-->
-![星光下的颤动之树](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&w=1920) Today: [星光下的颤动之树](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg)
+<!--2025-11-14 02:20:11-->
+![快节奏时代，别忘了慢下来](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&w=1920) Today: [快节奏时代，别忘了慢下来](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-14](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-14 [download 4k](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg)| ![2025-11-14](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-14 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)|
 | ![2025-11-13](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-13 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg)| ![2025-11-13](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-13 [download 4k](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)|
 | ![2025-11-12](https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-12 [download 4k](https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg)| ![2025-11-12](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-12 [download 4k](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg)|
 | ![2025-11-11](https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-11 [download 4k](https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg)| ![2025-11-11](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-11 [download 4k](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg)|
