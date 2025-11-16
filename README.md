@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-15 02:16:14-->
-![像日光那样“弯道飞驰”](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&w=1920) Today: [像日光那样“弯道飞驰”](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg)
+<!--2025-11-16 02:26:11-->
+![承载过往的篇章](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&w=1920) Today: [承载过往的篇章](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-16](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-16 [download 4k](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg)| ![2025-11-16](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-16 [download 4k](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)|
 | ![2025-11-15](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-15 [download 4k](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg)| ![2025-11-15](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-15 [download 4k](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)|
 | ![2025-11-14](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-14 [download 4k](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg)| ![2025-11-14](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-14 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)|
 | ![2025-11-13](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-13 [download 4k](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg)| ![2025-11-13](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-13 [download 4k](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)|
