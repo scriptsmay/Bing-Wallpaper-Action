@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-17 02:21:14-->
-![小径在召唤](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&w=1920) Today: [小径在召唤](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg)
+<!--2025-11-18 02:19:23-->
+![秋日里的羽翼明星](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&w=1920) Today: [秋日里的羽翼明星](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-18](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-18 [download 4k](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)| ![2025-11-18](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-18 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg)|
 | ![2025-11-17](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-17 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg)| ![2025-11-17](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-17 [download 4k](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)|
 | ![2025-11-16](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-16 [download 4k](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg)| ![2025-11-16](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-16 [download 4k](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)|
 | ![2025-11-15](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-15 [download 4k](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg)| ![2025-11-15](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-15 [download 4k](https://www.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)|
