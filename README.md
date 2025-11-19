@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-18 02:19:23-->
-![秋日里的羽翼明星](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&w=1920) Today: [秋日里的羽翼明星](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)
+<!--2025-11-19 02:19:09-->
+![石头与符号，诉说一个民族的故事](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg&w=1920) Today: [石头与符号，诉说一个民族的故事](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-19](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-19 [download 4k](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)| ![2025-11-19](https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-19 [download 4k](https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg)|
 | ![2025-11-18](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-18 [download 4k](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)| ![2025-11-18](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-18 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg)|
 | ![2025-11-17](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-17 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg)| ![2025-11-17](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-17 [download 4k](https://www.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)|
 | ![2025-11-16](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-16 [download 4k](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg)| ![2025-11-16](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-16 [download 4k](https://www.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)|
