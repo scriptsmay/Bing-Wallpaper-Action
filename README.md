@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-20 02:17:16-->
-![颂扬保护与美](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg&w=1920) Today: [颂扬保护与美](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg)
+<!--2025-11-21 02:18:10-->
+![带着“你好”的问候](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&w=1920) Today: [带着“你好”的问候](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-21](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-21 [download 4k](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg)| ![2025-11-21](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-21 [download 4k](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg)|
 | ![2025-11-20](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-20 [download 4k](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg)| ![2025-11-20](https://www.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-20 [download 4k](https://www.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg)|
 | ![2025-11-19](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-19 [download 4k](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)| ![2025-11-19](https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-19 [download 4k](https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg)|
 | ![2025-11-18](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-18 [download 4k](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)| ![2025-11-18](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-18 [download 4k](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg)|
