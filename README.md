@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-23 02:34:49-->
-![大自然的秘密代码](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg&w=1920) Today: [大自然的秘密代码](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg)
+<!--2025-11-24 02:28:37-->
+![岩石中的秘密](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&w=1920) Today: [岩石中的秘密](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-24](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)| ![2025-11-24](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)|
 | ![2025-11-23](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-23 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg)| ![2025-11-23](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-23 [download 4k](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)|
 | ![2025-11-22](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-22 [download 4k](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg)| ![2025-11-22](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-22 [download 4k](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg)|
 | ![2025-11-21](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-21 [download 4k](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg)| ![2025-11-21](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-21 [download 4k](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg)|
