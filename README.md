@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-24 02:28:37-->
-![岩石中的秘密](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&w=1920) Today: [岩石中的秘密](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)
+<!--2025-11-25 02:21:00-->
+![爱情、幸运与硬币](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&w=1920) Today: [爱情、幸运与硬币](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-25](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)| ![2025-11-25](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)|
 | ![2025-11-24](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)| ![2025-11-24](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)|
 | ![2025-11-23](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-23 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg)| ![2025-11-23](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-23 [download 4k](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)|
 | ![2025-11-22](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-22 [download 4k](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg)| ![2025-11-22](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-22 [download 4k](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg)|
