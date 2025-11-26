@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-25 02:21:00-->
-![爱情、幸运与硬币](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&w=1920) Today: [爱情、幸运与硬币](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)
+<!--2025-11-26 02:21:46-->
+![让树叶诉说历史](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&w=1920) Today: [让树叶诉说历史](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-26](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-26 [download 4k](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)| ![2025-11-26](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-26 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg)|
 | ![2025-11-25](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)| ![2025-11-25](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)|
 | ![2025-11-24](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)| ![2025-11-24](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)|
 | ![2025-11-23](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-23 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg)| ![2025-11-23](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-23 [download 4k](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)|
