@@ -4,6 +4,9 @@ import redis
 import os
 from datetime import datetime
 
+# 定义域名
+DOMAIN = "https://wallpaper.virola.me"
+
 def get_now_time():
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -65,7 +68,7 @@ def url_redirect(self, url):
 
 def render_home_page():
     """渲染首页"""
-    return """
+    return f"""
 <!DOCTYPE html>
     <html lang="zh-CN">
     <head>
@@ -73,10 +76,10 @@ def render_home_page():
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Wallpaper Image API</title>
         <style>
-            body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-            .container { background: #f5f5f5; padding: 20px; border-radius: 8px; }
-            code { background: #eee; padding: 2px 6px; border-radius: 3px; }
-            .endpoint { margin: 15px 0; padding: 10px; background: white; border-left: 4px solid #007cba; }
+            body {{ font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }}
+            .container {{ background: #f5f5f5; padding: 20px; border-radius: 8px; }}
+            code {{ background: #eee; padding: 2px 6px; border-radius: 3px; }}
+            .endpoint {{ margin: 15px 0; padding: 10px; background: white; border-left: 4px solid #007cba; }}
         </style>
     </head>
     <body>
@@ -102,23 +105,36 @@ def render_home_page():
             
             <div class="endpoint">
                 <h3>获取指定位置图片</h3>
-                <p><code>GET /api/images/position/{number}</code></p>
+                <p><code>GET /api/images/position/{{number}}</code></p>
                 <p><strong>参数:</strong> <code>format</code> (json, image)</p>
                 <p><strong>示例:</strong> 
                     <a href="/api/images/position/0" target="_blank">第1张(JSON)</a> | 
                     <a href="/api/images/position/0?format=image" target="_blank">第1张(图片)</a>
                 </p>
             </div>
+
+            <div class="endpoint">
+                <h3>获取今日壁纸（缓存24小时）</h3>
+                <p><code>GET /api/images/today</code></p>
+                <p><strong>参数:</strong> <code>format</code> (json, image)</p>
+                <p><strong>示例:</strong> 
+                    <a href="/api/images/today" target="_blank">JSON格式</a> | 
+                    <a href="/api/images/today?format=image" target="_blank">直接跳转图片</a>
+                </p>
+            </div>
             
             <h2>🔄 使用方式</h2>
             <pre><code># 获取随机图片
-curl -L "https://wallpaper.virola.me/api/images?format=image"
+curl -L "{DOMAIN}/api/images?format=image"
 
 # 获取最新图片信息
-curl "https://wallpaper.virola.me/api/images/latest"
+curl "{DOMAIN}/api/images/latest"
 
 # 获取所有图片列表
-curl "https://wallpaper.virola.me/api/images?sort=random"
+curl "{DOMAIN}/api/images?sort=random"
+
+# 获取今日壁纸
+curl -L "{DOMAIN}/api/today?format=image"
 </code></pre>
         </div>
     </body>

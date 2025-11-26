@@ -4,6 +4,8 @@ import json
 import redis
 import os
 import urllib.parse
+import random
+from datetime import datetime, timedelta
 
 class Handler(BaseHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
@@ -46,7 +48,6 @@ class Handler(BaseHTTPRequestHandler):
         elif sort_by == 'reverse':
             return sorted(images, reverse=True)
         elif sort_by == 'random':
-            import random
             random.shuffle(images)
             return images
         else:
@@ -69,6 +70,32 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header('Access-Control-Allow-Origin', '*')
         self.end_headers()
         self.wfile.write(json.dumps(data, ensure_ascii=False).encode('utf-8'))
+    
+    def get_today_wallpaper(self):
+        """获取今日壁纸，如果不存在则随机选择一张并缓存"""
+        r = self.get_redis_client()
+        
+        # 使用今天的日期作为key
+        today_key = f"wallpaper:today:{datetime.now().strftime('%Y-%m-%d')}"
+        
+        # 尝试获取今天的壁纸
+        today_wallpaper = r.get(today_key)
+        
+        if today_wallpaper:
+            # 如果存在，直接返回
+            return today_wallpaper
+        else:
+            # 如果不存在，从所有图片中随机选择一张
+            all_images = list(r.smembers("wallpapers"))
+            if not all_images:
+                return None
+            
+            selected_wallpaper = random.choice(all_images)
+            
+            # 缓存到Redis，设置24小时过期
+            r.setex(today_key, 86400, selected_wallpaper)  # 24小时 = 86400秒
+            
+            return selected_wallpaper
     
     def do_GET(self):
         try:
@@ -130,6 +157,30 @@ class Handler(BaseHTTPRequestHandler):
                         "total": len(images_list)
                     })
                 
+            elif path == '/api/images/today':
+                # 获取今日壁纸
+                today_wallpaper = self.get_today_wallpaper()
+                
+                if not today_wallpaper:
+                    self.send_json_response(
+                        {"status": "error", "message": "没有找到图片"}, 
+                        404
+                    )
+                    return
+                
+                if response_format == 'image':
+                    # 直接重定向到今日壁纸
+                    self.url_redirect(today_wallpaper)
+                else:
+                    # 返回JSON格式
+                    self.send_json_response({
+                        "status": "success",
+                        "type": "today_wallpaper",
+                        "date": datetime.now().strftime('%Y-%m-%d'),
+                        "image": today_wallpaper,
+                        "cache_info": "每日更新，缓存24小时"
+                    })
+
             elif path.startswith('/api/images/position/'):
                 # 获取指定位置的图片
                 try:
