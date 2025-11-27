@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-26 02:21:46-->
-![让树叶诉说历史](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&w=1920) Today: [让树叶诉说历史](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)
+<!--2025-11-27 02:18:21-->
+![潮起潮落的坚守](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&w=1920) Today: [潮起潮落的坚守](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-27](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-27 [download 4k](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg)| ![2025-11-27](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-27 [download 4k](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg)|
 | ![2025-11-26](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-26 [download 4k](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)| ![2025-11-26](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-26 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg)|
 | ![2025-11-25](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)| ![2025-11-25](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)|
 | ![2025-11-24](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)| ![2025-11-24](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-24 [download 4k](https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)|
