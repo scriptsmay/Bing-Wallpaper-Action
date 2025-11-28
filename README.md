@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-27 02:18:21-->
-![潮起潮落的坚守](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&w=1920) Today: [潮起潮落的坚守](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg)
+<!--2025-11-28 02:17:57-->
+![白色回响](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&w=1920) Today: [白色回响](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-28](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-28 [download 4k](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg)| ![2025-11-28](https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-28 [download 4k](https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)|
 | ![2025-11-27](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-27 [download 4k](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg)| ![2025-11-27](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-27 [download 4k](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg)|
 | ![2025-11-26](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-26 [download 4k](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)| ![2025-11-26](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-26 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg)|
 | ![2025-11-25](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)| ![2025-11-25](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-25 [download 4k](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)|
