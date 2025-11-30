@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-29 02:18:13-->
-![哎呀，好冷啊！](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg&w=1920) Today: [哎呀，好冷啊！](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg)
+<!--2025-11-30 02:33:36-->
+![一路闪耀](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg&w=1920) Today: [一路闪耀](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-11-30](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-30 [download 4k](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg)| ![2025-11-30](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-30 [download 4k](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)|
 | ![2025-11-29](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-29 [download 4k](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg)| ![2025-11-29](https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-29 [download 4k](https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)|
 | ![2025-11-28](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-28 [download 4k](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg)| ![2025-11-28](https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-28 [download 4k](https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)|
 | ![2025-11-27](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-27 [download 4k](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg)| ![2025-11-27](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-27 [download 4k](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg)|
