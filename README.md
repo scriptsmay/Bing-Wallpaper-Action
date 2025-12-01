@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-11-30 02:33:36-->
-![一路闪耀](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg&w=1920) Today: [一路闪耀](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg)
+<!--2025-12-01 02:56:15-->
+![冰雪凝息之处](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg&w=1920) Today: [冰雪凝息之处](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-01](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-01 [download 4k](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)| ![2025-12-01](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-01 [download 4k](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)|
 | ![2025-11-30](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-30 [download 4k](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg)| ![2025-11-30](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-30 [download 4k](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)|
 | ![2025-11-29](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-29 [download 4k](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg)| ![2025-11-29](https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-29 [download 4k](https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)|
 | ![2025-11-28](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-28 [download 4k](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg)| ![2025-11-28](https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-11-28 [download 4k](https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)|
