@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-03 02:23:27-->
-![曙光中的鹤影](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg&w=1920) Today: [曙光中的鹤影](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)
+<!--2025-12-04 02:24:30-->
+![为生存而疾驰](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg&w=1920) Today: [为生存而疾驰](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-04](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-04 [download 4k](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg)| ![2025-12-04](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-04 [download 4k](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)|
 | ![2025-12-03](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-03 [download 4k](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)| ![2025-12-03](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-03 [download 4k](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)|
 | ![2025-12-02](https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-02 [download 4k](https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg)| ![2025-12-02](https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-02 [download 4k](https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)|
 | ![2025-12-01](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-01 [download 4k](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)| ![2025-12-01](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-01 [download 4k](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)|
