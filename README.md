@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-05 02:24:24-->
-![绘制星图的城市](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg&w=1920) Today: [绘制星图的城市](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg)
+<!--2025-12-06 02:17:31-->
+![佛罗里达州的生命湿地](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg&w=1920) Today: [佛罗里达州的生命湿地](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-06](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-06 [download 4k](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg)| ![2025-12-06](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-06 [download 4k](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)|
 | ![2025-12-05](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-05 [download 4k](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg)| ![2025-12-05](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-05 [download 4k](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)|
 | ![2025-12-04](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-04 [download 4k](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg)| ![2025-12-04](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-04 [download 4k](https://www.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)|
 | ![2025-12-03](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-03 [download 4k](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)| ![2025-12-03](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-03 [download 4k](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)|
