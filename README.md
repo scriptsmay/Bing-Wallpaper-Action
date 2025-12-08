@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-07 02:34:01-->
-![雪落下的声音](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg&w=1920) Today: [雪落下的声音](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg)
+<!--2025-12-08 02:25:19-->
+![一切安详，一切明亮](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&w=1920) Today: [一切安详，一切明亮](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-08](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-08 [download 4k](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)| ![2025-12-08](https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-08 [download 4k](https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg)|
 | ![2025-12-07](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-07 [download 4k](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg)| ![2025-12-07](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-07 [download 4k](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg)|
 | ![2025-12-06](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-06 [download 4k](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg)| ![2025-12-06](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-06 [download 4k](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)|
 | ![2025-12-05](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-05 [download 4k](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg)| ![2025-12-05](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-05 [download 4k](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)|
