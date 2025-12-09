@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-08 02:25:19-->
-![一切安详，一切明亮](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&w=1920) Today: [一切安详，一切明亮](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)
+<!--2025-12-09 02:24:32-->
+![说“茄子”……或者“青草”](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&w=1920) Today: [说“茄子”……或者“青草”](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-09](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-09 [download 4k](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg)| ![2025-12-09](https://www.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-09 [download 4k](https://www.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg)|
 | ![2025-12-08](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-08 [download 4k](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)| ![2025-12-08](https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-08 [download 4k](https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg)|
 | ![2025-12-07](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-07 [download 4k](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg)| ![2025-12-07](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-07 [download 4k](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg)|
 | ![2025-12-06](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-06 [download 4k](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg)| ![2025-12-06](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-06 [download 4k](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)|
