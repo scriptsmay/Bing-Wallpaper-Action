@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-10 02:26:53-->
-![文化交汇之地](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg&w=1920) Today: [文化交汇之地](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg)
+<!--2025-12-11 02:28:48-->
+![天地相接之处](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg&w=1920) Today: [天地相接之处](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-11](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-11 [download 4k](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg)| ![2025-12-11](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-11 [download 4k](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)|
 | ![2025-12-10](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-10 [download 4k](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg)| ![2025-12-10](https://www.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-10 [download 4k](https://www.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg)|
 | ![2025-12-09](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-09 [download 4k](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg)| ![2025-12-09](https://www.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-09 [download 4k](https://www.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg)|
 | ![2025-12-08](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-08 [download 4k](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)| ![2025-12-08](https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-08 [download 4k](https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg)|
