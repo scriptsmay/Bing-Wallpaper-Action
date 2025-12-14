@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-13 02:20:50-->
-![冰封的倒影](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&w=1920) Today: [冰封的倒影](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg)
+<!--2025-12-14 02:35:14-->
+![假日鸟类大比拼](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg&w=1920) Today: [假日鸟类大比拼](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-14](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-14 [download 4k](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg)| ![2025-12-14](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-14 [download 4k](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg)|
 | ![2025-12-13](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-13 [download 4k](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg)| ![2025-12-13](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-13 [download 4k](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg)|
 | ![2025-12-12](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-12 [download 4k](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg)| ![2025-12-12](https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-12 [download 4k](https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg)|
 | ![2025-12-11](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-11 [download 4k](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg)| ![2025-12-11](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-11 [download 4k](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)|
