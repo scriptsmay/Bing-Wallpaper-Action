@@ -1,9 +1,10 @@
 # Bing Wallpaper
-<!--2025-12-16 02:28:45-->
-![小帽子，大能量](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&w=1920) Today: [小帽子，大能量](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg)
+<!--2025-12-17 02:23:49-->
+![皮毛、霜冻和盛宴](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg&w=1920) Today: [皮毛、霜冻和盛宴](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg)
 
 |  Chinese – China   |   English – United States   |
 | :----: | :----: |
+| ![2025-12-17](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-17 [download 4k](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg)| ![2025-12-17](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-17 [download 4k](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg)|
 | ![2025-12-16](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-16 [download 4k](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg)| ![2025-12-16](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-16 [download 4k](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg)|
 | ![2025-12-15](https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-15 [download 4k](https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg)| ![2025-12-15](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-15 [download 4k](https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg)|
 | ![2025-12-14](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-14 [download 4k](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg)| ![2025-12-14](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) 2025-12-14 [download 4k](https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg)|
